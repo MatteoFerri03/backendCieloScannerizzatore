@@ -1,3 +1,4 @@
 build/resources/main/application.yaml
 .gradle
 bin
+build.gradle
